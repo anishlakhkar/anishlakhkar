@@ -81,7 +81,7 @@
 
 <p align="center">
   <a href="https://github.com/anishlakhkar">
-    <img src="https://github-readme-stats.vercel.app/api?username=Adityak2002&show_icons=true&theme=tokyonight" alt="Anish's GitHub stats" />
+    <img src="https://github-readme-stats.vercel.app/api?username=anishlakhkar&show_icons=true&theme=tokyonight" alt="Anish's GitHub stats" />
   </a>
 
   <a href="https://github.com/anishlakhkar">
