@@ -24,11 +24,11 @@
 
 ## 🚀 *Highlighted Projects*
 - **[AyurVedaAI](https://github.com/anishlakhkar/AyurVedaAI)**  
- The project integrates Ayurveda with AI by creating a conversational chatbot that provides personalized health advice through Prakruti analysis and retrieval-augmented generation using large language models. 
-  Tech Stack: Flask, Python, React, Langchain
+ The project integrates Ayurveda with AI by creating a conversational chatbot that provides personalized health advice through Prakruti analysis and retrieval-augmented generation using large language models.
+ Tech Stack: Flask, Python, React, Langchain
 
 - **[Graphical Authentication System](https://github.com/anishlakhkar/Graphical_Authentication_System)**  
-  A web-based graphical password authentication system made using Flask. different approaches to tackle these types of attacks and improve the security of the system 
+  A web-based graphical password authentication system made using Flask. different approaches to tackle these types of attacks and improve the security of the system.
   Tech Stack: Flask/Python , HTML, CSS, Javascript
 
 - **[Image Retrieval with AWS](https://github.com/rohanlokhande2002/VisionVault)**  
